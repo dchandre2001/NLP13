@@ -1,3 +1,5 @@
+#Name:Dipali Ravindra Chandre
+#Roll No:13
 import gensim
 from gensim import corpora
 from gensim.models.word2vec import Word2Vec
