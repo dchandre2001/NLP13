@@ -1,3 +1,10 @@
+'''
+Assignment no 6 
+Name:Chandre Dipali Ravindra 
+Batch:B1 
+Roll no: 13
+Title: "Assignment Based on Dependancy."
+''' 
 import spacy
 nlp = spacy.load("en_core_web_sm")
 piano_text = "Push back the result of the evaluation. Repeat it till the end of the expression.Checkout examples that are mention below in table "
